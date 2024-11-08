@@ -25,7 +25,7 @@ func main() {
 	w.SetSize(1000, 800, webview.HintNone)
 
 	//load the url
-	w.Navigate("https://www.duckduckgo.com")
+	w.Navigate("https://www.google.com")
 
 	//run the window
 	w.Run()
